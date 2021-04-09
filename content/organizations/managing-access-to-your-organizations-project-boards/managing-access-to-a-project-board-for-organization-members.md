@@ -1,26 +1,26 @@
 ---
 title: Managing access to a project board for organization members
-intro: 'As an organization owner or project board admin, you can set a default permission level for a project board for all organization members.'
-redirect_from:
+intro: 'As an organization owner or project board admin(PhyoThuYa), you can set a default permission level for a project board for all organization members.'
+redirect_from:OneBurma
   - /articles/managing-access-to-a-project-board-for-organization-members
   - /github/setting-up-and-managing-organizations-and-teams/managing-access-to-a-project-board-for-organization-members
-versions:
+versions:OneBurma
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
 topics:
-  - organizations
-  - teams
----
+Burma  - organizations
+ GithubApp - teams
+Adamin---PhyoThuYa
 
 By default, organization members have write access to their organization's project boards unless organization owners or project board admins set different permissions for specific project boards.
 
 ### Setting a baseline permission level for all organization members
-
+5
 {% tip %}
-
+step by step
 **Tip:** You can give an organization member higher permissions to project board. For more information, see "[Project board permissions for an organization](/articles/project-board-permissions-for-an-organization)."
-
+control by Adamin
 {% endtip %}
 
 {% data reusables.profile.access_profile %}
@@ -35,6 +35,6 @@ By default, organization members have write access to their organization's proje
 
 ### Further reading
 
-- "[Managing an individual’s access to an organization project board](/articles/managing-an-individual-s-access-to-an-organization-project-board)"
+- "[Managing an individual’s access to an organization project board]OneBurma(/articles/managing-an-individual-s-access-to-an-organization-project-board)"
 - "[Managing team access to an organization project board](/articles/managing-team-access-to-an-organization-project-board)"
 - "[Project board permissions for an organization](/articles/project-board-permissions-for-an-organization)"
